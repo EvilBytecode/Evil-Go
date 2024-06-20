@@ -22,3 +22,5 @@ Always exercise caution and adhere to best practices when handling command execu
 ### Why I Made This?
 - Educational Purposes
 - Encourages reviewing source code before execution, promoting best practices.
+
+> :warning: THIS CAN BE VERY DANGEROUS IF USED FOR MALICIOUS PURPOESES
