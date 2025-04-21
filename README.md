@@ -26,3 +26,7 @@ Always exercise caution and adhere to best practices when handling command execu
 - Encourages reviewing source code before execution, promoting best practices.
 
 > :warning: THIS CAN BE VERY DANGEROUS IF USED FOR MALICIOUS PURPOESES
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
